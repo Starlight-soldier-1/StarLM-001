@@ -1,0 +1,36 @@
+p.p1{
+    font-size: 30px;
+}
+a.a1{
+color: blue;
+font-size: 60px;
+position: relative;
+top: 30px;
+text-decoration: line-through 5px;
+}
+a.a2{
+    color: green;
+    font-size: 40px;
+    position: relative;
+    bottom: 10px;
+    text-decoration: underline 3px;
+}
+a.a3{
+    font-size: small;
+}
+a.a4{
+    font-size: small;
+    position: relative;
+    bottom: 10px;
+}
+a.a5{
+    position: relative;
+    top: 5px;
+}
+a.a6{
+    font-size: x-large;
+    color: blue;
+    position: relative;
+    top: 15px;
+    text-decoration: line-through;
+}
