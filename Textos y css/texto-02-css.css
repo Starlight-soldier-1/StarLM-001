@@ -1,0 +1,28 @@
+a.a1{
+    color: blue;
+    font-size: 50px
+}
+p.second-p{
+    text-decoration: overline black;
+}
+a.a2{
+    text-decoration: overline black 1px;
+    color: blue;
+    font-size: 50px;
+}
+p.third-p{
+    text-decoration: overline black;
+}
+a.a3{
+    text-decoration: overline black 1px;
+    color: blue;
+    font-size: 50px;
+}
+p.p-last{
+    text-decoration: overline black;
+}
+a.a4{
+    text-decoration: overline black 1px;
+    color: blue;
+    font-size: 50px;
+}
