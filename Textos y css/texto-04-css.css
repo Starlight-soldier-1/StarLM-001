@@ -1,0 +1,29 @@
+body{background-color: lightgrey;
+font-family: Arial, Helvetica, sans-serif;}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.p1{background-color: grey;}
+h2{
+    background-color: grey;
+    text-decoration: underline;
+    text-decoration: underline;
+    color: darkgrey;
+}
+p.p2{
+    background-color: darkgrey;
+}
+p.p3{
+    background-color: white;
+    text-align: end;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif
+}
+p.p4{
+    background-color: grey;
+    color: lightgrey;
+    font-style: italic;
+    font-weight: bold;
+}
