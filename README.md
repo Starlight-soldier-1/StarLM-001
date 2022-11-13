@@ -1,3 +1,3 @@
 # StarLM-001
-Repository for College activities only
+Repositorio para las actividades de 
 Ejercicios de lenguaje de marcas en la rama master, main es la rama por defecto creada por github
