@@ -34,3 +34,10 @@ a.a6{
     top: 15px;
     text-decoration: line-through;
 }
+a.a7{
+    font-size: large;
+    color: green;
+    position: relative;
+    bottom: 10px;
+    text-decoration: underline;
+}
