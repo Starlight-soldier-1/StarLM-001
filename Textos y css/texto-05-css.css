@@ -15,3 +15,6 @@ a.a1{
 a.a2{
     font-weight: bold;
 }
+figure{
+    float: left;
+}
