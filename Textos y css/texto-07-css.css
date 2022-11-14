@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(211, 211, 211, 0.596);
+}
+div{
+    background-color: lightgrey;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    background-color: grey;
+    color: red;
+}
+h3{
+    background-color: grey;
+    color: violet;
+}
+h4{
+    background-color: grey;
+}
+a.a1{
+    color: blue;
+    text-decoration:underline ;
+    font-weight: bold;
+}
+a.a2{
+    color: darkgreen;
+}
+a.a3{
+color: brown;
+font-weight: bold;
+}
+a.a4{
+    color: rgb(201, 5, 80);
+    font-style: italic;
+}
+a.a5{
+    font-style: italic;
+    color: coral;
+    background-color: rgb(196, 192, 192);
+}
