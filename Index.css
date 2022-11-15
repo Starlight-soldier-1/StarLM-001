@@ -4,21 +4,23 @@ body{
     background-repeat: no-repeat;
 }
 h1{
+    font-size: 40px;
     border: 1px solid black;
     border-radius: 5px;
     border-width: 5px;
     text-align: center;
     padding: 2px;
-    background-color: white;
+    background-color: rgb(100, 219, 100);
     margin-left: 20%;
     margin-right: 20%;
 }
 p{
+   font-size: 20px;
     border: 1px solid black;
     border-radius: 5px;
     border-width: 5px;
     text-align: center;
-    background-color: white;
+    background-color: rgb(238, 232, 144);
     margin-left: 20%;
     margin-right: 20%;
 }
