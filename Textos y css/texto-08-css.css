@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(192, 228, 240);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: end;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.a1{
+    font-family: cursive;
+    color: red;
+}
+h2{
+    font-family: monospace;
+    font-weight: bold;
+}
+a.a2{
+    color: burlywood;
+}
+i{
+    background-color: white;
+    color: darkgreen;
+}
+b{
+    color: brown;
+    font-weight: bold;
+}
