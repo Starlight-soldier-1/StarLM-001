@@ -1,4 +1,12 @@
-h1{
+@font-face{
     font-family: 'ChickenPie';
-    src: url(../Fonts/chicken_pie/CHICKEN\ Pie.ttf) format(truetype); 
+    src: url("/Fonts/chicken_pie/CHICKEN\ Pie.ttf") format("opentype"); 
+    font-family: PinkChicken;
+    src: url("/Fonts/pink_chicken/PinkChicken-Regular.ttf");
+}
+h1{
+    font-family: ChickenPie;   
+}
+h2{
+
 }
