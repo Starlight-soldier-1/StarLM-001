@@ -1,0 +1,48 @@
+@font-face{
+    font-family: 'ChickenPie';
+    src: url("/fuentes/chicken_pie/CHICKEN\ Pie.ttf") format("opentype"); 
+}
+@font-face {
+    font-family: Chickenpink;
+    src: url("/fuentes/pink_chicken/PinkChicken-Regular.ttf");
+}
+@font-face {
+    font-family: Zelda;
+    src: url(/fuentes/triforce/Triforce.ttf);
+}
+@font-face {
+    font-family: MKDS;
+    src: url(/fuentes/mario_kart_ds/Mario-Kart-DS.ttf);
+}
+body{
+    background-color: rgb(8, 223, 116);
+}
+h1{
+    font-family: ChickenPie;   
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+font-family: Chickenpink;
+font-style: italic;
+}
+p{
+    color: white;
+    font-family: Zelda;
+    text-align: end;
+    font-size: 20px;
+    font-style: italic;
+}
+p.subtitulo{
+    color: black;
+    font-family: MKDS;
+    text-align: center;
+    font-size: smaller;
+}
+a.bold{
+    font-weight: bold;
+}
+a.underline{
+    text-decoration: underline;
+}
+
